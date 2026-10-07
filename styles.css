@@ -983,3 +983,72 @@ a:hover {
     padding: 1.75rem 1rem 2rem;
   }
 }
+
+/* —— Category headings & expanded digest sections —— */
+.deal-category {
+  margin-top: 1.35rem;
+}
+
+.category-heading {
+  margin: 0 0 0.75rem;
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: var(--walnut-deep);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--gold);
+  display: inline-block;
+  min-width: 8rem;
+}
+
+.content-block {
+  margin-top: 1.6rem;
+  background: var(--cream-card);
+  border: 1px solid var(--border-cream);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1.15rem;
+  box-shadow: 0 4px 14px rgba(43, 26, 16, 0.08);
+}
+
+.content-block p {
+  margin: 0.55rem 0 0;
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.video-hubs {
+  margin-top: 0.45rem !important;
+  font-size: 0.85rem !important;
+}
+
+.video-list {
+  margin: 0.7rem 0 0;
+  padding-left: 1.15rem;
+  color: var(--text);
+}
+
+.video-list li {
+  margin: 0.4rem 0;
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.video-list a {
+  color: var(--walnut-mid);
+  font-weight: 600;
+}
+
+.video-list a:hover {
+  color: var(--gold-dim);
+}
+
+.tip-card .tip-lead + .tip-footer-text {
+  margin-top: -0.35rem;
+}
+
+.tip-card a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
