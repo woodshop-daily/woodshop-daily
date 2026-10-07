@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Woodshop Daily</title>
+  <link href="https://molotovgolf-prog.github.io/woodshop-daily/" rel="alternate" type="text/html"/>
+  <link href="https://molotovgolf-prog.github.io/woodshop-daily/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://molotovgolf-prog.github.io/woodshop-daily/</id>
+  <updated>2026-10-06T12:00:00Z</updated>
+  <subtitle>Daily digest for small home shops — gear deals and free build tips</subtitle>
+  <author>
+    <name>Woodshop Daily</name>
+  </author>
+  <entry>
+    <title>Daily Digest · Tue Oct 6 — DW735X Planer &amp; Home-Shop Deals</title>
+    <link href="https://molotovgolf-prog.github.io/woodshop-daily/" rel="alternate" type="text/html"/>
+    <id>https://molotovgolf-prog.github.io/woodshop-daily/#2026-10-06</id>
+    <updated>2026-10-06T12:00:00Z</updated>
+    <published>2026-10-06T12:00:00Z</published>
+    <summary type="html"><![CDATA[
+      <p>DeWalt DW735X planer $659 (save $200), Rockler Rock-Steady outfeed kit, WoodRiver front vise, Razorsaw dovetail saw, Milwaukee M18 FUEL PACKOUT vac free-battery promo, plus a front-vise mounting tip.</p>
+      <ul>
+        <li>DEWALT DW735X 13" 2-Speed Planer — $659 (list $859) · Rockler</li>
+        <li>Rockler Rock-Steady Knock-Down Table Saw Outfeed Kit — $89.99 (list $134.99)</li>
+        <li>WoodRiver Front Vise, Small — $71.99 (list $119.99) · Woodcraft</li>
+        <li>Razorsaw Dovetail Saw 240mm No.311 — $29.99 (list $59.99) · Woodcraft</li>
+        <li>Milwaukee M18 FUEL PACKOUT Wet/Dry Vac — free battery promo (confirm at checkout)</li>
+      </ul>
+      <p><strong>Build tip:</strong> Bolt the mounting plate through the bench top into a solid apron or cleat—not just into thin plywood.</p>
+    ]]></summary>
+    <content type="html"><![CDATA[
+      <p>DeWalt DW735X planer $659 (save $200), Rockler Rock-Steady outfeed kit, WoodRiver front vise, Razorsaw dovetail saw, Milwaukee M18 FUEL PACKOUT vac free-battery promo, plus a front-vise mounting tip.</p>
+      <ul>
+        <li>DEWALT DW735X 13" 2-Speed Planer — $659 (list $859) · Rockler</li>
+        <li>Rockler Rock-Steady Knock-Down Table Saw Outfeed Kit — $89.99 (list $134.99)</li>
+        <li>WoodRiver Front Vise, Small — $71.99 (list $119.99) · Woodcraft</li>
+        <li>Razorsaw Dovetail Saw 240mm No.311 — $29.99 (list $59.99) · Woodcraft</li>
+        <li>Milwaukee M18 FUEL PACKOUT Wet/Dry Vac — free battery promo (confirm at checkout)</li>
+      </ul>
+      <p><strong>Build tip:</strong> Bolt the mounting plate through the bench top into a solid apron or cleat—not just into thin plywood.</p>
+    ]]></content>
+  </entry>
+</feed>

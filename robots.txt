@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://molotovgolf-prog.github.io/woodshop-daily/feed.xml
